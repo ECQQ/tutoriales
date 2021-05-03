@@ -1,5 +1,6 @@
 numpy
 matplotlib
+notebook
 pandas
 wordcloud==1.8.1
 graph_of_words==0.1
